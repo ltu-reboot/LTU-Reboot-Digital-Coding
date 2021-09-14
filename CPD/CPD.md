@@ -23,4 +23,4 @@ Setting up
 
 I learnt to fork a repository on github, then clone it to my computer. 
 
-I followed along with the instructor in realtime.
+I followed along with the instructor in realtime. 
