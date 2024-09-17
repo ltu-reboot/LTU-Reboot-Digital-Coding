@@ -1,0 +1,22 @@
+a{
+    color:grey;
+    color:#434343;
+    color:rgb(100,100,100);
+    font-size: 18px;
+    
+}
+header{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90;
+    margin: 0 auto;
+    padding:0px;
+}
+ol{
+    border: 1px solid green;
+    display:flex;
+    justify-content: space-evenly;
+    width: 300px ;
+}
